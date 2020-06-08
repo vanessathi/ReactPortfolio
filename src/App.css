@@ -1,0 +1,59 @@
+html, body {
+  height:100%;
+} 
+
+body {
+  background: url('https://i.imgur.com/DW3gBnU.jpg') no-repeat center center fixed;
+  /* https://i.imgur.com/DW3gBnU.jpg */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  /* background: #5bc4c4;
+  background: -webkit-linear-gradient(to right, #5bc4c4, #19547b);
+  background: linear-gradient(to right, #5bc4c4, #19547b); */
+
+}
+
+nav {
+  opacity: 0.8;
+  background-color: transparent;
+  padding-top: 10px;
+  position: fixed;
+  color: white;
+}
+
+.jumbotron {
+  background-color: peachpuff;
+}
+
+
+/* .navbar:hover {
+  color: teal;
+} */
+
+.image {
+    width: 50%;
+    align-self: center;
+    padding: 10px;
+}
+
+.businessOfTheWeek {
+    align-content: center;
+}
+
+/* search bar css */
+
+.form-control:focus {
+  box-shadow: none;
+  margin-bottom: -20px;
+}
+
+.form-control-underlined {
+  border-width: 0;
+  border-bottom-width: 1px;
+  border-radius: 0;
+  padding-left: 0;
+}
+

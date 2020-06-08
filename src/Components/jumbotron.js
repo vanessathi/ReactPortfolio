@@ -7,7 +7,7 @@ export default function Jumbotron() {
   <div class="row border-0 my-4">
     <div class="col-lg-8 mx-auto">
   <div class="jumbotron rounded shadow">
-    <h1 class="display-4"></h1>
+    <h1 class="display-4">Making Waves | My Portfolio</h1>
     <p class="lead">My name is Vanessa Pham and I am an aspiring full stack developer striving to create vibrant, polished content. Still & always learning!</p>
     <hr class="my-4" />
 
